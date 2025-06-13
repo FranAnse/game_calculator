@@ -1,0 +1,27 @@
+{
+  "name": "hsr-damage-calculator",
+  "version": "1.0.0",
+  "description": "崩坏：星穹铁道伤害计算器",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  },
+  "keywords": [
+    "vue",
+    "honkai-star-rail",
+    "damage-calculator",
+    "gaming"
+  ],
+  "author": "芝西 董",
+  "license": "MIT"
+}
