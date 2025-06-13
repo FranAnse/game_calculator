@@ -1,7 +1,5 @@
-# test
-
-This template should help get you started developing with Vue 3 in Vite.
-
+# 伤害计算器
+由ai一把直接生成整个工程文件的伤害计算器，纯前端实现
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
